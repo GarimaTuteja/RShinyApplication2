@@ -10,7 +10,7 @@ Data
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified. 
 Data file contains information from 2020 only.
 
-Basic preprocessing for the data has been done such finding the missing values, imputing missing values, doing sanity checks such as if the houses exists with feature values given.Refer preprocessing.R
+Basic preprocessing for the data has been done such finding the missing values, imputing missing values, Date & Time Conversion. Refer preprocessing.R
 
 Web page that shows the app to the user is present in the ui.R and all the data manipulation and server program is under server.R
 
@@ -30,4 +30,4 @@ Tab 3: A heatmap using the type of the crime and the hour of the day when the cr
 
 Tab 4:A tab with any other information that is useful in explaining crime in Chicago.
 
-![](Pictures/.png)
+![](Pictures/Tab4.png)
