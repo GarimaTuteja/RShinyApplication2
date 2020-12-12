@@ -16,18 +16,18 @@ Web page that shows the app to the user is present in the ui.R and all the data 
 
 For this App, there are 4 tabs
 
-Tab 1: Bar charts illustrating frequency of crime by month and crime type for different month crime type combinations.
+<b> Tab 1: Bar charts illustrating frequency of crime by month and crime type for different month crime type combinations.</b>
 
 ![](Pictures/Tab1.png)
 
-Tab 2: Location of crimes by date on a map.
+<b> Tab 2: Location of crimes by date on a map. </b>
 
 ![](Pictures/Tab2.png)
 
-Tab 3: A heatmap using the type of the crime and the hour of the day when the crime was committed, to identify any relationship between crime type and hour at which the crime is committed.
+<b> Tab 3: A heatmap using the type of the crime and the hour of the day when the crime was committed, to identify any relationship between crime type and hour at which the crime is committed. </b>
 
 ![](Pictures/Tab3.png)
 
-Tab 4:A tab with any other information that is useful in explaining crime in Chicago.
+<b> Tab 4:A tab with any other information that is useful in explaining crime in Chicago. </b>
 
 ![](Pictures/Tab4.png)
